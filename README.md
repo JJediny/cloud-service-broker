@@ -17,6 +17,7 @@ Some of the benefits over traditional, IaaS-provided, service brokers include:
 
 ## Architecture
 ![Architecture Diagram](https://lh6.googleusercontent.com/GoNJx-4dQ51pEY6mCLkus1peKhZJbDMj4JHpdu83stfQrbcsjd45ypBPzpspfWAPPYrc63BREaawwRHS4Ht4U7m2yWAHItwaIgfuwUtn_KxfF96s6Jby7BRIliZ6BZz1HL-KhaI)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJJediny%2Fcloud-service-broker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJJediny%2Fcloud-service-broker?ref=badge_shield)
 
 
 
@@ -99,3 +100,7 @@ There are make targets for most common dev tasks.
 ## Contributing
 
 See [the contributing file](https://github.com/pivotal/cloud-service-broker/blob/master/CONTRIBUTING.md) for more information. 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJJediny%2Fcloud-service-broker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJJediny%2Fcloud-service-broker?ref=badge_large)
